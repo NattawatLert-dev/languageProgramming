@@ -1,4 +1,4 @@
-public class A35_2d_arrays {
+public class A26_2d_arrays {
     public static void main(String[] args) {
         
         // 2D array = an array where each element is an array
