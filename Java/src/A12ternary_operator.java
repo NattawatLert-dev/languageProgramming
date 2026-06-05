@@ -1,4 +1,4 @@
-public class A16ternary_operator {
+public class A12ternary_operator {
     public static void main(String[] args) {
 
         // ternary operator ? = Return 1 of 2 values if a condition is true
