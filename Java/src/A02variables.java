@@ -84,7 +84,9 @@ public class A02variables {
 
     }
 }
+
 /*
+
 Primirive type   size      Wrapper type
 
 boolean          -         Boolean 
