@@ -43,5 +43,7 @@ public class A07if_statements {
             System.out.println("You are NOT a student");
         }
 
+        scanner.close();
+
     }
 }
