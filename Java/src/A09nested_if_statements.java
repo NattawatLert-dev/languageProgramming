@@ -1,4 +1,4 @@
-public class A12nested_if_statements {
+public class A09nested_if_statements {
     public static void main(String[] args) {
         
         boolean isStudent = false;
