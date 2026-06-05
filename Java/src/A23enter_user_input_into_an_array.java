@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A32enter_user_input_into_an_array {
+public class A23enter_user_input_into_an_array {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
