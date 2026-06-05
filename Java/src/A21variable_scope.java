@@ -1,4 +1,4 @@
-public class A28variable_scope {
+public class A21variable_scope {
 
     static int x = 3; //CLASS
 
