@@ -1,4 +1,4 @@
-public class A18enhanced_switches {
+public class A13enhanced_switches {
     public static void main(String[] args) {
         
         // Enhanced switch = A replacement to many else if statements
