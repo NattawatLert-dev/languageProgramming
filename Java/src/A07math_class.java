@@ -1,4 +1,4 @@
-public class A09math_class {
+public class A07math_class {
     public static void main(String[] args) {
         
         System.out.println("###########################");
