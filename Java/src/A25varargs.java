@@ -1,4 +1,4 @@
-public class A34varargs {
+public class A25varargs {
     public static void main(String[] args) {
         
         // varargs = allow a method to accept a varying # of arguments
