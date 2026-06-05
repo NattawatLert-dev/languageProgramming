@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class A39arraylist {
+public class A27arraylist {
     public static void main(String[] args) {
         
         // ArrayList = A resizeable array that stores objects (autoboxing).
