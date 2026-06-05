@@ -1,4 +1,4 @@
-public class A14substring {
+public class A11substring {
     public static void main(String[] args) {
         
         // .substring() = A method used to extract a portion of string
