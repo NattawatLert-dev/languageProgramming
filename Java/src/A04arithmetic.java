@@ -1,4 +1,4 @@
-public class A05arithmetic {
+public class A04arithmetic {
     public static void main(String[] args) {
         
         // Arithmetic Operators
@@ -53,8 +53,6 @@ public class A05arithmetic {
         System.out.println("Order of operations [P-E-M-D-A-S] : ");
         System.out.println(result);
         System.out.println("#####################\n");
-
-
 
     }
 }
