@@ -1,4 +1,4 @@
-public class A10printf {
+public class A08printf {
     public static void main(String[] args) {
         
         // printf() = is a method used to format output
@@ -27,7 +27,6 @@ public class A10printf {
         // ( = negative numbers are enclosed in ()
         // space = display a minus if negative, space if positive
 
-
         double price1 = 9.99;
         double price2 = 1000.15;
         double price3 = -54.01;
@@ -54,7 +53,6 @@ public class A10printf {
         System.out.printf("%4d\n", id2);
         System.out.printf("%-4d\n", id3);
         System.out.printf("%d\n", id4);
-
 
     }
 }
