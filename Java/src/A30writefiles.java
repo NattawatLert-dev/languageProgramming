@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class A41writefiles {
+public class A30writefiles {
     public static void main(String[] args) {
         
         // HOW to write a file using Java (4 popular options)
