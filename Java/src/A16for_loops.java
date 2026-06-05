@@ -1,4 +1,4 @@
-public class A23for_loops{
+public class A16for_loops{
     public static void main(String[] args){
         
         // for loop = execute some code a CERTAIN amount of times
