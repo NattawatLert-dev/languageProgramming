@@ -16,12 +16,12 @@ public class A03input{
 
         System.out.print("Are you a student? (true/false): ");
         boolean isStudent = scanner.nextBoolean();
-
-            
+    
         System.out.println("Hello " + name);
         System.out.println("You are " + age + " years old");
         System.out.println("Your gpa is: " + gpa);
         System.out.println("Strudent: " + isStudent);
 
+        scanner.close();
     }
 }
