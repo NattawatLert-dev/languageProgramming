@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class A31array {
+public class A22array {
     public static void main(String[] args) {
         
         // array = a collection of values of the same data type
