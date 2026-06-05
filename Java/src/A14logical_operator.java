@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A20logical_operator {
+public class A14logical_operator {
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
