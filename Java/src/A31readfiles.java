@@ -2,7 +2,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 
-public class A42readfiles {
+public class A31readfiles {
     public static void main(String[] args) {
         
         // HOW to read a file using Java (3 popular options)
