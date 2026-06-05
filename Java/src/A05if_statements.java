@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A07if_statements {
+public class A05if_statements {
     public static void main(String[] args) {
         
         // if statement = performs a block of code if its condition is true
@@ -44,6 +44,5 @@ public class A07if_statements {
         }
 
         scanner.close();
-
     }
 }
