@@ -1,4 +1,4 @@
-public class A13string_method {
+public class A10string_method {
     public static void main(String[] args) {
 
         String name = "Nattawat";
@@ -46,9 +46,6 @@ public class A13string_method {
         }else{
             System.out.println("Hello " + name);
         }
-
-
-
 
     }
 }
