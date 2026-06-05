@@ -1,4 +1,4 @@
-public class A33search_an_array {
+public class A24search_an_array {
     public static void main(String[] args) {
 
         //Ex.1
