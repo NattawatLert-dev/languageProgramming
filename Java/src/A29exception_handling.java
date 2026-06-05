@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A40exception_handling {
+public class A29exception_handling {
     public static void main(String[] args) {
         
         // Exception = An event that interrupts the normal flow of a program
